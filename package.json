@@ -15,7 +15,7 @@
     "url": "https://github.com/kirm/sip.js.git"
   },
   "engines": {
-    "node": ">=0.2.2"
+    "node": ">=6.0.0"
   },
   "dependencies": {
     "uws": "*"
